@@ -53,7 +53,7 @@ func main() {
 
 ## Contributing
 
-fork and send a pull request.
+Fork and send a pull request.
 
 ## Note
 
