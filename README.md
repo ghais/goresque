@@ -1,4 +1,5 @@
 # goresque
+[![Build Status](https://travis-ci.org/ghais/goresque.png?branch=master)](https://travis-ci.org/ghais/goresque)
 
 A Simple [Resque](https://github.com/resque/resque) queue client for [Go](http://golang.org).
 
