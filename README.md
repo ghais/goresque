@@ -1,10 +1,10 @@
 # goresque
 [![Build Status](https://travis-ci.org/ghais/goresque.png?branch=master)](https://travis-ci.org/ghais/goresque)
+[![Coverage Status](https://coveralls.io/repos/ghais/goresque/badge.png)](https://coveralls.io/r/ghais/goresque)
 
 A Simple [Resque](https://github.com/resque/resque) queue client for [Go](http://golang.org).
 
 ## Installation
-
 ```
 go get github.com/ghais/goresque
 ```
