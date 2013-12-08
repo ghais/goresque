@@ -33,7 +33,7 @@ import (
 )
 
 func main() {
-  client, err := godis.Dial("127.0.0.1:6379") // get a client
+  client, err := goresque.Dial("127.0.0.1:6379") // get a client
   if err != nil {
       //handle error
   }
